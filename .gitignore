@@ -11,3 +11,11 @@
 *.lai
 *.la
 *.a
+
+# MSVS
+*.suo
+*.sdf
+*.opensdf
+*.user
+Debug/
+Release/
