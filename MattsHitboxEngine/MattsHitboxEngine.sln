@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MattsHitboxEngine", "MattsHitboxEngine.vcxproj", "{2D72C650-219E-4583-9233-104FFB06353B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D72C650-219E-4583-9233-104FFB06353B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2D72C650-219E-4583-9233-104FFB06353B}.Debug|Win32.Build.0 = Debug|Win32
+		{2D72C650-219E-4583-9233-104FFB06353B}.Release|Win32.ActiveCfg = Release|Win32
+		{2D72C650-219E-4583-9233-104FFB06353B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
